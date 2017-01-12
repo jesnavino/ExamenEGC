@@ -1,10 +1,8 @@
-package test;
+package es.egc;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-
-import main.Res;
 
 public class TestRes {
 	

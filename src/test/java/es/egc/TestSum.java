@@ -1,10 +1,13 @@
-package test;
+package es.egc;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+import junit.framework.TestCase;
+import junit.framework.TestSuite;
 
-import main.Sum;
+
+import es.egc.Sum;
 
 public class TestSum {
 
