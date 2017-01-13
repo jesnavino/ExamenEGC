@@ -10,7 +10,4 @@ public class Sum {
 		return a + b + c;
 	}
 
-//esto es un comentario para realizar un conflicto
-
-//esto es el comentario desde la otra rama
 }
